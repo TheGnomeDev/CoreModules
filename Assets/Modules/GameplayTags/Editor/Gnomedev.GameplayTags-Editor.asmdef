@@ -1,0 +1,18 @@
+{
+    "name": "Gnomedev.GameplayTags-Editor",
+    "rootNamespace": "Gnomedev.GameplayTags.Editor",
+    "references": [
+        "GUID:18a746167f294a54f980dce5ffcac642"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
